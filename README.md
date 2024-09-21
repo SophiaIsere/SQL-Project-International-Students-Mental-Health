@@ -1,4 +1,6 @@
 # SQL-Project-International-Students-Mental-Health-and-Length-of-Stay
+![mental health](intro.jpg)
+
 Exploring the impact of studying abroad and length of stay on international students' mental health using SQL. Analyzed depression (PHQ-9), social connectedness (SCS), and acculturative stress (ASISS) scores to identify trends. Completed as part of the Intermediate SQL course on DataCamp.
 ## Introduction
 This project analyzes the mental health of international students at a Japanese university, focusing on how the length of stay in a foreign country impacts their well-being. Using SQL, I examined the relationship between the duration of stay and key mental health indicators such as depression (PHQ-9), social connectedness (SCS), and acculturative stress (ASISS).
@@ -6,6 +8,7 @@ This project analyzes the mental health of international students at a Japanese 
 The dataset includes information about student demographics, academic level, language proficiency, and the results of mental health assessments. The goal of this project is to provide insights that may help universities develop targeted interventions to support international students.
 
 ## Analysis
+![SQL CODE](analysis.jpg.jpg)
 ### Key Insights:
 #### Length of Stay and Depression (PHQ-9):
 
@@ -29,5 +32,6 @@ The analysis reveals a clear relationship between the length of stay and various
 
 ## Project Notebook
 You can view the complete project notebook on DataCamp Datalab by [Clicking here](https://www.datacamp.com/datalab/w/eab096f9-4e33-4858-bf64-d388c8163359/edit)
-.
+
+![Thank You](Thank_you.jpg)
 
